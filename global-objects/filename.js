@@ -1,0 +1,1 @@
+console.log(__filename); // E:\Coding\Exercise\Node\global_object\filename.js

@@ -1,0 +1,1 @@
+console.log(__dirname); // E:\Coding\Exercise\Node\global_object
